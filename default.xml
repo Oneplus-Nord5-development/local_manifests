@@ -4,9 +4,7 @@
           fetch="https://github.com/Oneplus-Nord5-development"
           review="https://github.com/Oneplus-Nord5-development"
           />
-  <default name="opn5"
-           revision="lineage-23.0"/>
-  
+
   <project name="android_kernel_oneplus_sm8650-devicetrees"
            path="kernel/oneplus/sm8650-devicetrees"
            name="opn5"
