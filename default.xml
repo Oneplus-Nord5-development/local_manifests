@@ -1,53 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="opn5"
-          fetch="https://github.com/Oneplus-Nord5-development"
-          />
+  <remote
+      name="opn5"
+      fetch="https://github.com/Oneplus-Nord5-development" />
 
-  <project name="android_kernel_oneplus_sm8650-devicetrees"
-           path="kernel/oneplus/sm8650-devicetrees"
-           name="opn5"
-           revision="lineage-23.0"
-    />
-  
-  <project name="android_kernel_oneplus_sm8650-modules"
-           path="kernel/oneplus/sm8650-modules"
-          name="opn5"
-           revision="lineage-23.0"/>
-    />
-  <project name="android_device_oneplus_lexus"
-           path="device/oneplus/lexus"
-          name="opn5"
-           revision="lineage-23.0"/>
-  
-    />
-  <project name="android_device_oneplus_sm8650-common"
-           path="device/oneplus/sm8650-common"
-           name="opn5"
-           revision="lineage-23.0"/>
-         
-    />
-  <project name="android_vendor_oneplus_sm8650-common"
-           path="vendor/oneplus/sm8650-common"
-           name="opn5"
-           revision="lineage-23.0"/>
-         
-    />
-  <project name="android_vendor_oneplus_lexus"
-           path="vendor/oneplus/lexus"
-           name="opn5"
-           revision="lineage-23.0"/>
-        
-    />
-  <project name="android_kernel_oneplus_sm8650"
-           path="kernel/oneplus/sm8650"
-           name="opn5"
-           revision="lineage-23.0"/>
-         
-    />
-  <project name="android_hardware_oplus"
-           path="hardware/oplus"
-           name="opn5"
-           revision="lineage-23.0"/>
-    />
+  <project
+      name="android_kernel_oneplus_sm8650-devicetrees"
+      path="kernel/oneplus/sm8650-devicetrees"
+      remote="opn5"
+      revision="lineage-23.0" />
+
+  <project
+      name="android_kernel_oneplus_sm8650-modules"
+      path="kernel/oneplus/sm8650-modules"
+      remote="opn5"
+      revision="lineage-23.0" />
+
+  <project
+      name="android_device_oneplus_lexus"
+      path="device/oneplus/lexus"
+      remote="opn5"
+      revision="lineage-23.0" />
+
+  <project
+      name="android_device_oneplus_sm8650-common"
+      path="device/oneplus/sm8650-common"
+      remote="opn5"
+      revision="lineage-23.0" />
+
+  <project
+      name="android_vendor_oneplus_sm8650-common"
+      path="vendor/oneplus/sm8650-common"
+      remote="opn5"
+      revision="lineage-23.0" />
+
+  <project
+      name="android_vendor_oneplus_lexus"
+      path="vendor/oneplus/lexus"
+      remote="opn5"
+      revision="lineage-23.0" />
+
+  <project
+      name="android_kernel_oneplus_sm8650"
+      path="kernel/oneplus/sm8650"
+      remote="opn5"
+      revision="lineage-23.0" />
+
+  <project
+      name="android_hardware_oplus"
+      path="hardware/oplus"
+      remote="opn5"
+      revision="lineage-23.0" />
 </manifest>
