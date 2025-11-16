@@ -2,7 +2,6 @@
 <manifest>
   <remote name="opn5"
           fetch="https://github.com/Oneplus-Nord5-development"
-          review="https://github.com/Oneplus-Nord5-development"
           />
 
   <project name="android_kernel_oneplus_sm8650-devicetrees"
