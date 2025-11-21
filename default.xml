@@ -4,6 +4,10 @@
       name="opn5"
       fetch="https://github.com/Oneplus-Nord5-development" />
 
+    <remote
+      name="ghlab"
+      fetch="https://gitlab.com/grepfox" />
+
   <project
       name="android_kernel_oneplus_sm8650-devicetrees"
       path="kernel/oneplus/sm8650-devicetrees"
@@ -34,11 +38,11 @@
       remote="opn5"
       revision="lineage-23.0" />
 
-  <!--<project
-      name="android_vendor_oneplus_lexus"
+  <project
+      name="vendor_oneplus_lexus"
       path="vendor/oneplus/lexus"
-      remote="opn5"
-      revision="lineage-23.0" />-->
+      remote="ghlab"
+      revision="lineage-23.0" />
 
   <project
       name="android_kernel_oneplus_sm8650"
