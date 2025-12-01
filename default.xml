@@ -6,12 +6,16 @@
 
     <remote
       name="ghlab"
-      fetch="https://gitlab.com/grepfox" />
+      fetch="https://codeberg.org/grepfox" />
+
+    <remote
+      name="lin"
+      fetch="https://codeberg.org/grepfox" />
 
   <project
       name="android_kernel_oneplus_sm8650-devicetrees"
       path="kernel/oneplus/sm8650-devicetrees"
-      remote="opn5"
+      remote="lin"
       revision="lineage-23.0" />
 
   <project
@@ -48,7 +52,7 @@
       name="android_kernel_oneplus_sm8650"
       path="kernel/oneplus/sm8650"
       remote="opn5"
-      revision="lineage-23.0" />
+      revision="lin" />
 
   <project
       name="android_hardware_oplus"
