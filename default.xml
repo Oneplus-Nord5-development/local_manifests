@@ -52,7 +52,7 @@
       name="android_kernel_oneplus_sm8650"
       path="kernel/oneplus/sm8650"
       remote="opn5"
-      revision="lin" />
+      revision="lineage-23.0" />
 
   <project
       name="android_hardware_oplus"
