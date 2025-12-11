@@ -28,7 +28,7 @@
       name="android_device_oneplus_lexus"
       path="device/oneplus/lexus"
       remote="opn5"
-      revision="lineage-23.0" />
+      revision="staging" />
 
   <project
       name="android_device_oneplus_sm8650-common"
