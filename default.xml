@@ -8,10 +8,6 @@
       name="ghlab"
       fetch="https://codeberg.org/grepfox" />
 
-    <remote
-      name="lin"
-      fetch="https://codeberg.org/grepfox" />
-
       <remote
       name="lineage-23"
       fetch="https://github.com/LineageOS" />
@@ -55,7 +51,7 @@
   <project
       name="android_kernel_oneplus_sm8650"
       path="kernel/oneplus/sm8650"
-      remote="opn5"
+      remote="lineage-23"
       revision="lineage-23.0" />
 
   <project
