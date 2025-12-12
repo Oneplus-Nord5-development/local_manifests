@@ -12,10 +12,14 @@
       name="lin"
       fetch="https://codeberg.org/grepfox" />
 
+      <remote
+      name="lineage-23"
+      fetch="https://codeberg.org/grepfox" />
+
   <project
       name="android_kernel_oneplus_sm8650-devicetrees"
       path="kernel/oneplus/sm8650-devicetrees"
-      remote="lin"
+      remote="lineage-23"
       revision="lineage-23.0" />
 
   <project
