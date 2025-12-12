@@ -14,7 +14,7 @@
 
       <remote
       name="lineage-23"
-      fetch="https://codeberg.org/grepfox" />
+      fetch="https://github.com/LineageOS" />
 
   <project
       name="android_kernel_oneplus_sm8650-devicetrees"
