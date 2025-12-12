@@ -61,6 +61,6 @@
   <project
       name="android_hardware_oplus"
       path="hardware/oplus"
-      remote="opn5"
-      revision="lineage-23.0" />
+      remote="lineage-23"
+      revision="lineage-23.1" />
 </manifest>
