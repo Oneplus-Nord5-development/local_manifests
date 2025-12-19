@@ -46,7 +46,7 @@
       name="vendor_oneplus_lexus"
       path="vendor/oneplus/lexus"
       remote="ghlab"
-      revision="lineage-23.0" />
+      revision="lineage-23.1" />
 
   <project
       name="android_kernel_oneplus_sm8650"
