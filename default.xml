@@ -22,7 +22,7 @@
       name="android_kernel_oneplus_sm8650-modules"
       path="kernel/oneplus/sm8650-modules"
       remote="opn5"
-      revision="lineage-23.0" />
+      revision="stg" />
 
   <project
       name="android_device_oneplus_lexus"
