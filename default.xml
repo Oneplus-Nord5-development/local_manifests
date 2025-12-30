@@ -21,7 +21,7 @@
   <project
       name="android_kernel_oneplus_sm8650-modules"
       path="kernel/oneplus/sm8650-modules"
-      remote="opn5"
+      remote="lineage-23"
       revision="lineage-23.0" />
 
   <project
