@@ -37,12 +37,6 @@
       revision="lineage-23.0" />
 
   <project
-      name="android_vendor_oneplus_sm8650-common"
-      path="vendor/oneplus/sm8650-common"
-      remote="opn5"
-      revision="lineage-23.0" />
-
-  <project
       name="vendor_oneplus_lexus"
       path="vendor/oneplus/lexus"
       remote="ghlab"
