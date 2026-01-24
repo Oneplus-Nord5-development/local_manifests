@@ -6,7 +6,7 @@
 
     <remote
       name="ghlab"
-      fetch="https://codeberg.org/grepfox" />
+      fetch="https://github.com/TheMuppets" />
 
       <remote
       name="lineage-23"
@@ -16,41 +16,41 @@
       name="android_kernel_oneplus_sm8650-devicetrees"
       path="kernel/oneplus/sm8650-devicetrees"
       remote="lineage-23"
-      revision="lineage-23.0" />
+      revision="lineage-23.2" />
 
   <project
       name="android_kernel_oneplus_sm8650-modules"
       path="kernel/oneplus/sm8650-modules"
       remote="lineage-23"
-      revision="lineage-23.0" />
+      revision="lineage-23.2" />
 
   <project
       name="android_device_oneplus_lexus"
       path="device/oneplus/lexus"
-      remote="opn5"
-      revision="lineage-23.0" />
+      remote="lineage-23"
+      revision="lineage-23.2" />
 
   <project
       name="android_device_oneplus_sm8650-common"
       path="device/oneplus/sm8650-common"
-      remote="opn5"
-      revision="lineage-23.0" />
+      remote="lineage-23"
+      revision="lineage-23.2" />
 
   <project
       name="vendor_oneplus_lexus"
       path="vendor/oneplus/lexus"
       remote="ghlab"
-      revision="lineage-23.0" />
+      revision="lineage-23.2" />
 
   <project
       name="android_kernel_oneplus_sm8650"
       path="kernel/oneplus/sm8650"
       remote="lineage-23"
-      revision="lineage-23.0" />
+      revision="lineage-23.2" />
 
   <project
       name="android_hardware_oplus"
       path="hardware/oplus"
-      remote="opn5"
-      revision="lineage-23.0" />
+      remote="lineage-23"
+      revision="lineage-23.2" />
 </manifest>
