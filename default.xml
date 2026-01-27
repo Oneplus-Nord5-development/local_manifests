@@ -25,16 +25,16 @@
       revision="lineage-23.2" />
 
   <project
-      name="android_device_oneplus_lexus"
+      name="device_oneplus_lexus"
       path="device/oneplus/lexus"
-      remote="lineage-23"
-      revision="lineage-23.2" />
+      remote="opn5"
+      revision="sixteen" />
 
   <project
-      name="android_device_oneplus_sm8650-common"
+      name="device_oneplus_sm8650-common"
       path="device/oneplus/sm8650-common"
-      remote="lineage-23"
-      revision="lineage-23.2" />
+      remote="opn5"
+      revision="sixteen" />
 
   <project
       name="proprietary_vendor_oneplus_lexus"
@@ -55,10 +55,10 @@
       revision="lineage-23.2" />
 
   <project
-      name="android_hardware_oplus"
+      name="hardware_oplus"
       path="hardware/oplus"
-      remote="lineage-23"
-      revision="lineage-23.2" />
+      remote="opn5"
+      revision="sixteen" />
 
 
 <remove-project name="vendor_qcom_opensource_agm-sm8650" />
