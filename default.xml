@@ -46,6 +46,13 @@
       remote="muppets"
       revision="lineage-23.2" />
 
+    <project
+      name="proprietary_vendor_oneplus_sm8650-common"
+      path="vendor/oneplus/sm8650-common"
+      remote="muppets"
+      revision="lineage-23.2" />
+
+  
   <project
       name="android_kernel_oneplus_sm8650"
       path="kernel/oneplus/sm8650"
