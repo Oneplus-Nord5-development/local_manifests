@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  
+
   <!-- Remotes -->
   <remote name="opn5" fetch="https://github.com/Oneplus-Nord5-development" />
   <remote name="ghlab" fetch="https://codeberg.org/grepfox" />
@@ -18,14 +18,15 @@
 
   <!-- Hardware -->
   <project name="android_hardware_oplus" path="hardware/oplus" remote="lineage-23" revision="lineage-23.2" />
-  <project name="android_hardware_dolby" path="hardware/dolby" revision="16.0" remote="crdroid-github" />
+  <project name="android_hardware_dolby" path="hardware/dolby" remote="crdroid-github" revision="16.0" />
 
   <!-- Vendor -->
   <project name="proprietary_vendor_oneplus_lexus" path="vendor/oneplus/lexus" remote="muppets" revision="lineage-23.2" />
   <project name="proprietary_vendor_oneplus_sm8650-common" path="vendor/oneplus/sm8650-common" remote="muppets" revision="lineage-23.2" />
-  <project name="proprietary_vendor_oneplus_dolby" revision="16.0" path="vendor/oneplus/dolby" remote="crdroid-gitlab" />
-  <project name="proprietary_vendor_oneplus_ir" revision="16.0" path="vendor/oneplus/ir" remote="crdroid-gitlab" />
+  <project name="proprietary_vendor_oneplus_dolby" path="vendor/oneplus/dolby" remote="crdroid-gitlab" revision="16.0" />
+  <project name="proprietary_vendor_oneplus_ir" path="vendor/oneplus/ir" remote="crdroid-gitlab" revision="16.0" />
 
   <!-- Packages -->
-  <project name="android_packages_apps_LunarisDolby" path="packages/apps/LunarisDolby" revision="16.0" remote="crdroid-github" />
+  <project name="android_packages_apps_LunarisDolby" path="packages/apps/LunarisDolby" remote="crdroid-github" revision="16.0" />
+
 </manifest>
